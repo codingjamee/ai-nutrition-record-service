@@ -3,11 +3,27 @@
 
 
 
-## 이 프로젝트에서 직접 구현한 기술 혹은 파일 정리 : 
+## 이 프로젝트에서 직접 구현한 기술 혹은 파일 요약 : 
 
 
 
 - 초기 스켈레톤 코드 세팅  
+- 공통 스타일 index.css, App.css등  
+- Calendar,Album
+- UI 폴더: 공통 및 재사용 컴포넌트   
+   (useCachingApi, useApi, InputCommon, ButtonCommon, InputNumber, BackDrop)   
+- Compound Component 패턴 (Toast, Calendar)  
+- 타 팀원의 스켈레톤 코드에 상태관리 비동기 기능 추가 :   
+    Onboarding,Login, Join 
+- 레이아웃 컴포넌트 : TopBar
+- utils 폴더 : AxiosConfig, checkValuesNullOrEmpty, getClassesArr, getDates, getMealNum, getNavProps  
+- hooks 폴더 : useCachingApi, useApi, useButtonProps, useConfirm, useControlled, useMutationggu  
+- Proxy 적용  
+- Errorboundary적용  
+
+
+## 직접 구현 기술 상세 
+
 - 공통 스타일 index.css, App.css등  
 - Calendar(라이브러리 없이 구현, compound component 패턴)와 Album (infinite scroll 기능),   
 - UI 폴더: 공통 및 재사용 컴포넌트   
@@ -28,7 +44,6 @@
 - hooks 폴더 : useCachingApi, useApi, useButtonProps, useConfirm, useControlled, useMutationggu  
 - Proxy 적용  
 - Errorboundary적용  
-
 
 
 ## 팀원 소개 :   
