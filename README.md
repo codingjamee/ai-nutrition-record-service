@@ -2,7 +2,10 @@
 
 
 
+
 ## 이 프로젝트에서 직접 구현한 기술 혹은 파일 정리 : 
+
+
 
 - 초기 스켈레톤 코드 세팅  
 - 공통 스타일 index.css, App.css등  
@@ -25,6 +28,26 @@
 - hooks 폴더 : useCachingApi, useApi, useButtonProps, useConfirm, useControlled, useMutationggu  
 - Proxy 적용  
 - Errorboundary적용  
+
+
+
+## 팀원 소개 :   
+
+
+<br>
+
+   |이름|역할|  
+|------|----|  
+   |허제인| 팀장 / 프론트  |  
+   |배현진| 프론트  |
+   |오혜수| 프론트  |
+   |양민정| 프론트  |
+   |정아영| 프론트  |
+   |김명지| 백엔드  |
+   |최유림| 백엔드 |
+   |장재웅| 백엔드|  
+
+
 
 
 ## 1. 배포 링크 :  
