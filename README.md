@@ -42,8 +42,10 @@
 
 ## 3. 설치 및 사용법:   
 
-```$ npm install```  
-```$ npm start```
+```bash
+$ npm install
+$ npm start
+```
 
 
 ## 4. 프론트엔드 사용 기술 스택:  
