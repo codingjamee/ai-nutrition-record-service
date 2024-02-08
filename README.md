@@ -1,4 +1,4 @@
-<img width="1221" alt="Screenshot 2024-02-08 at 9 26 59 PM" src="https://github.com/codingjamee/ai-nutrition-record-service/assets/99540667/4de2df79-8162-4ad2-afaf-f2bd5b413ede"><img src="https://capsule-render.vercel.app/api?type=Rounded&color=#008FC7&height=441&section=header&text=나의 맞춤 AI 영양사 구그램&fontSize=텍스트크기" />
+
 
 # 기여도
 
@@ -50,6 +50,7 @@ https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoCol
 https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 
+<img width="1221" alt="Screenshot 2024-02-08 at 9 26 59 PM" src="https://github.com/codingjamee/ai-nutrition-record-service/assets/99540667/4de2df79-8162-4ad2-afaf-f2bd5b413ede"><img src="https://capsule-render.vercel.app/api?type=Rounded&color=#008FC7&height=441&section=header&text=나의 맞춤 AI 영양사 구그램&fontSize=텍스트크기" />
 <img width="1186" alt="Screenshot 2024-02-08 at 9 26 22 PM" src="https://github.com/codingjamee/ai-nutrition-record-service/assets/99540667/f7f06958-c64a-4dee-8fc8-541efc5bc27d">
 <img width="1227" alt="<img width="1231" alt="Screenshot 2024-02-08 at 9 26 48 PM" src="https://github.com/codingjamee/ai-nutrition-record-service/assets/99540667/dce9dfc6-2396-4002-b2dd-c68f29477dbe">
 Screenshot 2024-02-08 at 9 26 38 PM" src="https://github.com/codingjamee/ai-nutrition-record-service/assets/99540667/96d6f902-2bed-4f2f-b9bb-ed7cb917a469">
