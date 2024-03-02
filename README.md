@@ -23,10 +23,19 @@
 
 ## 1. 링크 
 
-<a href="https://kdt-ai-9-team02.elicecoding.com/" target="_blank">배포 링크</a> <br>
+<a href="https://gugram.xyz/ /" target="_blank">배포 링크</a> <br>
 <a href="https://docs.google.com/spreadsheets/d/1eETQMvllc-_MhXdhSAPQU3rnNmLqi_cvlC7eg5-yhjk/edit#gid=0" target="_blank">에러 예상 시트</a><br>
 <a href="https://www.figma.com/file/YqnBba6ybeHNhqsY9tcnXj/%EA%B5%AC%EA%B5%AC%EB%80%A8?type=design&node-id=1452-2&mode=design&t=MAU4F6zbf0aBakMv-0" target="_blank">피그마</a><br>
 
+test 계정 :   
+ID: elicetest1@elice.com  
+PW: Kk12345678!  
+
+ID: elicetest2@elice.com  
+PW: Kk12345678!  
+
+ID: elicetest3@elice.com  
+PW: Kk12345678!  
 
 ## 2. 프로젝트 설명:  
 
